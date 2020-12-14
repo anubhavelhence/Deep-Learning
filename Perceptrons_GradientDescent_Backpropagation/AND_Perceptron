@@ -1,5 +1,6 @@
 import pandas as pd
 
+# Nihal was here
 # TODO: Set weight1, weight2, and bias
 weight1 = 1
 weight2 = 1
